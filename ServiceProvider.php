@@ -1,6 +1,6 @@
 <?php
 
-namespace Ammadeuss\LaravelHtmlDomParser;
+namespace HungNM\LaravelHtmlDomParser;
 
 use KubAT\PhpSimple\HtmlDomParser;
 
