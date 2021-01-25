@@ -3,13 +3,13 @@ Laravel wrapper for the PHP Simple HTML DOM Parser package
 
 ## Instalation
 Require this package with composer:
-> composer require ammadeuss/laravel-html-dom-parser
+> composer require hungnm144/laravel-html-dom-parser
 
 You need to add the service provider in app.php
-> Ammadeuss\LaravelHtmlDomParser\ServiceProvider::class,
+> HungNM\LaravelHtmlDomParser\ServiceProvider::class,
 
 If you want to use the facade, add this to your facades in app.php
-> 'HTMLDomParser' => Ammadeuss\LaravelHtmlDomParser\Facade::class
+> 'HTMLDomParser' => HungNM\LaravelHtmlDomParser\Facade::class
 
 ## Usage
 ```php
