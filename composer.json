@@ -7,18 +7,28 @@
         "laravel"
     ],
     "require": {
-    	"php": ">=7.4",
-        "illuminate/support": "^8.0",
+    	"php": ">=8.0",
+        "illuminate/support": "^8.0|^9.0",
         "kub-at/php-simple-html-dom-parser": "^1.8"
     },
-    "homepage": "https://github.com/hungnm1518/html-dom-parser",
+    "homepage": "https://github.com/hungnm1518/laravel-html-dom-parser",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Hung Nguyen",
-            "email": "hungnm144@gmail.com"
-        }
-    ],
+		{
+		  "name": "Hung Nguyen",
+		  "homepage": "http://fb.com/hungnm1518/",
+		  "email": "hungnm144@gmail.com",
+		  "role": "Developer"
+		}
+	],
+	"homepage": "http://fb.com/hungnm1518/",
+	"support": {
+		"email": "hungnm144@gmail.com",
+		"issues":"https://github.com/hungnm1518/laravel-html-dom-parserissues",
+		"wiki":"https://github.com/hungnm1518/laravel-html-dom-parser",
+		"source":"https://github.com/hungnm1518/laravel-html-dom-parser",
+		"docs": "https://github.com/hungnm1518/laravel-html-dom-parser"
+	},
     "autoload": {
         "psr-4": { "HungNM\\LaravelHtmlDomParser\\": "" }
     },
