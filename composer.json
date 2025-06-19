@@ -8,7 +8,7 @@
     ],
     "require": {
     	"php": "^8.0",
-        "illuminate/support": "^8.0|^9.0|^10.0|^11.0",
+        "illuminate/support": "^8.0|^9.0|^10.0|^11.0|^12.0",
         "kub-at/php-simple-html-dom-parser": "^1.8"
     },
     "homepage": "https://github.com/hungnm1518/laravel-html-dom-parser",
